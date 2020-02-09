@@ -1,2 +1,3 @@
 # Projects-Portfolio
-This is the repository for all my personal projects
+Repository for all my Data Science and Analytics personal projects
+
